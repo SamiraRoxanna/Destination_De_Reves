@@ -1,0 +1,14 @@
+<footer class="footer">
+      <div class="footer__copyright">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6">
+            <p><a href="index.php">&copy;2018 <img src="image/Destination de reve.png."></a></p>
+            </div>
+            <div class="col-md-6">
+              <p class="credit">Template powered by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious templates</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
